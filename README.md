@@ -1,6 +1,21 @@
 # 🧠 Deep Fake Video Detection Using Machine Learning
 
+
 ![d1](https://github.com/user-attachments/assets/50355119-e102-4842-903d-b0f5ef9d75b3)
+
+![d2](https://github.com/user-attachments/assets/12a5d355-4282-4037-8b91-7d3b24a0d209)
+
+
+![d3](https://github.com/user-attachments/assets/98e4d4a1-16a3-4e55-a70b-51609b3ce095)
+
+![d4](https://github.com/user-attachments/assets/b959fae5-bce8-4469-a339-d87102017578)
+
+![d5](https://github.com/user-attachments/assets/1bc7fc0c-7f98-4d95-b808-d9fe4754fe17)
+
+![d6](https://github.com/user-attachments/assets/f97ce2fe-42c9-44bd-b0dc-9f39e10cfe43)
+
+
+![d7](https://github.com/user-attachments/assets/f6677a4e-0ee0-40e5-a082-83e7a45801fb)
 
 
 
