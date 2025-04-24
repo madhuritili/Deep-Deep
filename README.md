@@ -32,25 +32,19 @@ Below are sample outputs showcasing the model’s ability to differentiate betwe
 ![image alt](https://github.com/madhuritili/Deep-Fake-Video-Detection-Using-Machine-Learning/blob/33fcf3893b899d2d85d4cb64b327cfe425b4c3cf/1.jpg)
 <p float="left">
   
-  <img src="[![d1](https://github.com/user-attachments/assets/71760763-7ccb-4f78-bd91-3a335f92976a)]" width="30%" />
-  <img src="![WhatsApp Image 2025-02-22 at 13 50 53_3869b021](https://github.com/user-attachments/assets/9a20841a-3a76-457c-9bfe-d8f6b0ee5472)
-" width="30%" />
-  <img src="![WhatsApp Image 2025-02-22 at 13 51 11_2bee5585](https://github.com/user-attachments/assets/f5e1f0c7-034b-4f30-9a12-d26074480b24)
-" width="30%" />
+  <img src="![d1](https://github.com/user-attachments/assets/b0fc8d19-aba4-44c4-8b51-6a04b9fd91c9)" width="30%" />
+  <img src="" width="30%" />
+  <img src="" width="30%" />
 </p>
 
 <p float="left">
-  <img src="![WhatsApp Image 2025-02-22 at 14 04 21_8a29dfe5](https://github.com/user-attachments/assets/c9589381-3a0f-47ab-b91a-d5e2128b2a24)
-" width="30%" />
-  <img src="![WhatsApp Image 2025-02-22 at 14 04 39_28a6a337](https://github.com/user-attachments/assets/7ec406ec-5061-411c-b453-4ca11d61bb1b)
-" width="30%" />
-  <img src="![WhatsApp Image 2025-02-22 at 14 04 50_16e8d736](https://github.com/user-attachments/assets/843ed175-9045-481f-b708-569098c28dca)
-" width="30%" />
+  <img src="" width="30%" />
+  <img src="" width="30%" />
+  <img src="" width="30%" />
 </p>
 
 <p align="center">
-  <img src="![WhatsApp Image 2025-02-22 at 14 05 02_2b3b0a86](https://github.com/user-attachments/assets/1988dd5c-7202-4017-ac18-a0cb8ad9ef41)
-" width="40%" />
+  <img src="" width="40%" />
 </p>
 
 These examples illustrate the model’s robust performance in detecting a variety of deepfake manipulations with high accuracy.
