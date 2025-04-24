@@ -31,19 +31,26 @@ This system is designed to identify manipulated media in both **pre-recorded** a
 Below are sample outputs showcasing the model’s ability to differentiate between authentic and deepfake video content:
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/57f0da63-4d7f-49b3-9377-6bcfd32cf361" width="30%" />
-  <img src="https://github.com/user-attachments/assets/570b0bd9-29fc-4998-ad5c-79fb097274f9" width="30%" />
-  <img src="https://github.com/user-attachments/assets/b7496e9b-5337-46b5-81ef-0ae6a2c06ada" width="30%" />
+  <img src="![1](https://github.com/user-attachments/assets/088a150f-8915-468e-9f4b-647e5e5afd96)
+" width="30%" />
+  <img src="![WhatsApp Image 2025-02-22 at 13 50 53_3869b021](https://github.com/user-attachments/assets/9a20841a-3a76-457c-9bfe-d8f6b0ee5472)
+" width="30%" />
+  <img src="![WhatsApp Image 2025-02-22 at 13 51 11_2bee5585](https://github.com/user-attachments/assets/f5e1f0c7-034b-4f30-9a12-d26074480b24)
+" width="30%" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/a62a3da1-3208-4885-8665-87f49a576158" width="30%" />
-  <img src="https://github.com/user-attachments/assets/534bcbd5-6bc8-4e52-a091-7827a102cbd7" width="30%" />
-  <img src="https://github.com/user-attachments/assets/0da636d4-3a3e-45bb-adbb-93e9a289413f" width="30%" />
+  <img src="![WhatsApp Image 2025-02-22 at 14 04 21_8a29dfe5](https://github.com/user-attachments/assets/c9589381-3a0f-47ab-b91a-d5e2128b2a24)
+" width="30%" />
+  <img src="![WhatsApp Image 2025-02-22 at 14 04 39_28a6a337](https://github.com/user-attachments/assets/7ec406ec-5061-411c-b453-4ca11d61bb1b)
+" width="30%" />
+  <img src="![WhatsApp Image 2025-02-22 at 14 04 50_16e8d736](https://github.com/user-attachments/assets/843ed175-9045-481f-b708-569098c28dca)
+" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d6e8cb75-8793-45cf-8150-37777a5710ba" width="40%" />
+  <img src="![WhatsApp Image 2025-02-22 at 14 05 02_2b3b0a86](https://github.com/user-attachments/assets/1988dd5c-7202-4017-ac18-a0cb8ad9ef41)
+" width="40%" />
 </p>
 
 These examples illustrate the model’s robust performance in detecting a variety of deepfake manipulations with high accuracy.
