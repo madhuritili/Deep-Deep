@@ -33,7 +33,7 @@ Below are sample outputs showcasing the model’s ability to differentiate betwe
 <p float="left">
   
   <img src="![d1](https://github.com/user-attachments/assets/b0fc8d19-aba4-44c4-8b51-6a04b9fd91c9)" width="30%" />
-  <img src="" width="30%" />
+  <img src="![d2](https://github.com/user-attachments/assets/9c90ba05-746e-4125-8e25-6efb8fdc7fe7)" width="30%" />
   <img src="" width="30%" />
 </p>
 
