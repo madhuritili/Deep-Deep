@@ -1,4 +1,4 @@
-# 🧠 Deep-Fake Video Detection using Machine Learning.
+# 🧠 Deep Fake Video Detection Using Machine Learning.
 
 ## 🔍 Overview  
 This project utilizes machine learning and deep learning techniques to **automatically detect deepfake videos** by analyzing visual patterns and inconsistencies in facial features. With deepfake technology becoming increasingly sophisticated, building reliable detection systems is critical for ensuring the authenticity and integrity of digital content.
