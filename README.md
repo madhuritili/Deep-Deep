@@ -30,24 +30,19 @@ This system is designed to identify manipulated media in both **pre-recorded** a
 
 Below are sample outputs showcasing the model’s ability to differentiate between authentic and deepfake video content:
 
-![image alt](https://github.com/madhuritili/Deep-Fake-Video-Detection-Using-Machine-Learning/blob/33fcf3893b899d2d85d4cb64b327cfe425b4c3cf/1.jpg)
-<p float="left">
-  
-  <img src="![d1](https://github.com/user-attachments/assets/50355119-e102-4842-903d-b0f5ef9d75b3)" width="30%" />
-  <img src="![d2](https://github.com/user-attachments/assets/12a5d355-4282-4037-8b91-7d3b24a0d209)" width="30%" />
-  <img src="![d3](https://github.com/user-attachments/assets/98e4d4a1-16a3-4e55-a70b-51609b3ce095)" width="30%" />
-</p>
+![d1](https://github.com/user-attachments/assets/50355119-e102-4842-903d-b0f5ef9d75b3)
 
-<p float="left">
-  <img src="![d4](https://github.com/user-attachments/assets/b959fae5-bce8-4469-a339-d87102017578)" width="30%" />
-  <img src="![d5](https://github.com/user-attachments/assets/1bc7fc0c-7f98-4d95-b808-d9fe4754fe17)" width="30%" />
-  <img src="![d6](https://github.com/user-attachments/assets/f97ce2fe-42c9-44bd-b0dc-9f39e10cfe43)" width="30%" />
-</p>
+![d2](https://github.com/user-attachments/assets/12a5d355-4282-4037-8b91-7d3b24a0d209)
 
-<p align="center">
-  <img src="![d7](https://github.com/user-attachments/assets/f6677a4e-0ee0-40e5-a082-83e7a45801fb)
-" width="40%" />
-</p>
+![d3](https://github.com/user-attachments/assets/98e4d4a1-16a3-4e55-a70b-51609b3ce095)
+
+![d4](https://github.com/user-attachments/assets/b959fae5-bce8-4469-a339-d87102017578)
+
+![d5](https://github.com/user-attachments/assets/1bc7fc0c-7f98-4d95-b808-d9fe4754fe17)
+
+![d6](https://github.com/user-attachments/assets/f97ce2fe-42c9-44bd-b0dc-9f39e10cfe43)
+
+![d7](https://github.com/user-attachments/assets/f6677a4e-0ee0-40e5-a082-83e7a45801fb)
 
 These examples illustrate the model’s robust performance in detecting a variety of deepfake manipulations with high accuracy.
 
