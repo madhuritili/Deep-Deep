@@ -1,6 +1,7 @@
 # 🧠 Deep Fake Video Detection Using Machine Learning
 
-![Screenshot from 2025-04-24 18-02-42](https://github.com/user-attachments/assets/40c6b69d-b4e1-4878-b2f7-2b04e89d9ca2)
+![d1](https://github.com/user-attachments/assets/50355119-e102-4842-903d-b0f5ef9d75b3)
+
 
 
 ## 🔍 Overview  
